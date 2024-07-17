@@ -3,7 +3,7 @@ Title: Package Tutorial
 Version: 0.0.0.9000
 Authors@R: 
     person("The", "lonius182", , "vandenakker.forums@xs4all.nl", role = c("aut", "cre"))
-Description: Using regex as an example
+Description: Using regex as an example.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
