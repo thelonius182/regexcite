@@ -14,10 +14,6 @@ tools.
 You can install the development version of regexcite by cloning the
 repo.
 
-``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
-```
-
 ## Usage
 
 A fairly common task when dealing with strings is the need to split a
